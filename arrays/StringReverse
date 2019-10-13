@@ -1,0 +1,15 @@
+package arrays;
+
+public class StringReverse {
+
+  public static void main(String[] args){
+    String result = reverseString("My Name is Deepak");  
+  }
+  
+  public static reverseString(String input){
+    for(char c : input.toCharArray()){
+      
+    }
+  }
+
+}
